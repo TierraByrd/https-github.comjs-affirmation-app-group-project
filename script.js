@@ -53,3 +53,4 @@ function deleteThis(event) {
   let task = event.target.parentElement.parentElement;
   task.remove();
 }
+
